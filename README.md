@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository demonstrates how to use a Vector Store retriever in a conversational chain with LangChain, comparing two popular vector stores: LanceDB and Chroma. These tools help manage and retrieve data efficiently, making them essential for AI applications.
+This repository demonstrates how to use a Vector Store retriever in a conversational chain with LangChain, using the vector store Chroma. These tools help manage and retrieve data efficiently, making them essential for AI applications. Follow this ReadME file to set up a simple langchain agent to chat with your data (in this case - PDF files).
 
 ## Setup Instructions
 
